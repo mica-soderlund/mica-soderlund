@@ -4,8 +4,8 @@ My name is Mica and I live in both Stockholm and Barcelona. I love news journali
 
 ## A bit more about me
 
-- 🌍 Based in: Stockholm, Sweden and Barcelona, Spain
-- 💼 Work: Executive broadcast TV producer 
+- 🌍 Based in: Stockholm, Sweden, and Barcelona, Spain
+- 💼 Work: Executive producer with a focus on breaking news TV and politics.
 - 📚 Learning: New things in programming, product management and technology
 - 📫 How to reach me: IG: MicaSoderlund
 - 😄 Pronouns: She/Her
