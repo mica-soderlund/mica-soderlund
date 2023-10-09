@@ -1,11 +1,11 @@
 # Hello there! 👋
 
-My name is Mica and I live in both Stockholm and Barcelona. I love journalism and work on spreading important stories to the world.
+My name is Mica and I live in both Stockholm and Barcelona. I love news journalism and work on spreading important stories to the world.
 
 ## A bit more about me
 
 - 🌍 Based in: Stockholm, Sweden and Barcelona, Spain
-- 💼 Working with: Journalism and online broadcast TV
+- 💼 Work: Executive broadcast TV producer 
 - 📚 Learning: New things in programming, product management and technology
 - 📫 How to reach me: IG: MicaSoderlund
 - 😄 Pronouns: She/Her
